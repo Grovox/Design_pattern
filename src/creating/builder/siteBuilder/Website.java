@@ -1,7 +1,5 @@
 package creating.builder.siteBuilder;
 
-import creating.builder.siteBuilder.Cms;
-
 public class Website {
     private String name;
     private Cms cms;
