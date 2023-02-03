@@ -1,4 +1,4 @@
-package structure.Adapter;
+package structure.adapter;
 
 public class AdapterJavaToDatabase extends JavaApplication implements Database{
     @Override

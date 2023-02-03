@@ -1,4 +1,4 @@
-package structure.Adapter;
+package structure.adapter;
 
 public interface Database {
     public  void insert();

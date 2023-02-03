@@ -1,4 +1,4 @@
-package structure.Adapter;
+package structure.adapter;
 
 public class DatabaseRunner {
     public static void main(String[] args) {
