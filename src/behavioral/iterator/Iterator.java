@@ -1,4 +1,4 @@
-package behavioral.Iterator;
+package behavioral.iterator;
 
 public interface Iterator {
     public boolean hasNext();

@@ -1,4 +1,4 @@
-package behavioral.Interpreter;
+package behavioral.interpreter;
 
 public class InterpreterRunner {
     public static void main(String[] args) {

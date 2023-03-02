@@ -1,4 +1,4 @@
-package behavioral.Iterator;
+package behavioral.iterator;
 
 public class JavaDeveloper implements Collection {
     private String name;

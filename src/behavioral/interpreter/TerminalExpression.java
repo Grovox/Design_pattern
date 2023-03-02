@@ -1,4 +1,4 @@
-package behavioral.Interpreter;
+package behavioral.interpreter;
 
 public class TerminalExpression implements Expression{
     private String data;

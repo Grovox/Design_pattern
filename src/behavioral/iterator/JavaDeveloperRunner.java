@@ -1,4 +1,4 @@
-package behavioral.Iterator;
+package behavioral.iterator;
 
 public class JavaDeveloperRunner {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package behavioral.Interpreter;
+package behavioral.interpreter;
 
 public class OrExpression implements Expression{
     private Expression expression1;
