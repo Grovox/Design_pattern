@@ -21,6 +21,6 @@ public class SimpleTextChat implements Chat{
                 u.getMessage(massage);
             }
         }
-        admin.getMessage(massage );
+        admin.getMessage(massage);
     }
 }

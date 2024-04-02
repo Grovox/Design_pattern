@@ -1,6 +1,6 @@
 package structure.сompositе;
 
-public class JavaDeveloper implements Developer{
+public class  JavaDeveloper implements Developer{
 
     @Override
     public void writeCode() {

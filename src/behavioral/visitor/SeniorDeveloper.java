@@ -1,6 +1,6 @@
 package behavioral.visitor;
 
-public class SeniorDeveloper implements Developer{
+public class   SeniorDeveloper implements Developer{
     @Override
     public void create(ProjectClass projectClass) {
         System.out.println("Rewriting class after junior...");

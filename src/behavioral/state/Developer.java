@@ -1,6 +1,6 @@
 package behavioral.state;
 
-public class Developer {
+public class  Developer {
     Activity activity;
 
     public void setActivity(Activity activity) {

@@ -1,6 +1,6 @@
 package behavioral.command;
 
-public class DatabaseRunner {
+public class  DatabaseRunner {
     public static void main(String[] args) {
         Database database = new Database();
 

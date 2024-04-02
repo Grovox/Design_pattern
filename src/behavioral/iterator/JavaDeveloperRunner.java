@@ -1,6 +1,6 @@
 package behavioral.iterator;
 
-public class JavaDeveloperRunner {
+public class  JavaDeveloperRunner {
     public static void main(String[] args) {
         String[] skills = {"Java", "Spring", "Hibernate", "Maven", "PostgreSQL"};
 

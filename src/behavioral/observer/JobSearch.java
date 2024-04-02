@@ -1,6 +1,6 @@
 package behavioral.observer;
 
-public class JobSearch {
+public class   JobSearch {
     public static void main(String[] args) {
         JavaDeveloperJobSite jobSite = new JavaDeveloperJobSite();
 
